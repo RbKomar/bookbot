@@ -1,1 +1,1 @@
-BookBot is book.dev course project!
+BookBot is boot.dev course project!
