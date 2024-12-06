@@ -1,1 +1,1 @@
-BookBot is my first project!
+BookBot is book.dev course project!
